@@ -1,0 +1,31 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background-image: url('https://example.com/your-hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+/* Table styles */
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+/* Custom button styles */
+.btn-lg {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+}
+
+/* Footer styles */
+footer {
+    background-color: #343a40;
+}
