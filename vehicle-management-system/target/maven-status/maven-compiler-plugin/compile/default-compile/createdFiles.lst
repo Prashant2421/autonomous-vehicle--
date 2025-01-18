@@ -1,0 +1,12 @@
+com\vehicle\management\model\vehicle.class
+com\vehicle\management\dao.class
+com\vehicle\management\util\DatabaseConnection.class
+com\vehicle\management\model\model.class
+com\vehicle\management\model\user.class
+com\vehicle\management\vehicleservice\vehicleservice.class
+com\vehicle\management\testconnection.class
+com\vehicle\management\Dao\vehicledao.class
+com\vehicle\management\vehicleservice\userservice.class
+com\vehicle\management\App.class
+com\vehicle\management\Dao\userdao.class
+com\vehicle\management\util\JDBCConnector.class
